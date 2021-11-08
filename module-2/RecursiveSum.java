@@ -2,7 +2,7 @@
 Rusty DeGarmo
 Professor Payne
 Advanced Java Programming
-28 October 2021
+29 October 2021
 */
 
 
@@ -44,6 +44,8 @@ public class RecursiveSum {
         }
 
     public static double rSumHelper(double i, double total){
+        //helper method that calls itself decrementing i until i is less than 2
+        
         if(i > 1){
             total += (i/(i+1));
             return rSumHelper(i-1, total);
