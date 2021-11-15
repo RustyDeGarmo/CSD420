@@ -1,0 +1,7 @@
+These are some words in a file for using with my module five assignment. I'm just typing anything that comes to mind in the hopes that I will have some duplicate words. I'll copy and paste the whole thing just for giggles.
+
+The objective is to gather these words into a set and iterate over the set forwards and then again backwards. I'm thinking that I'll probably need to use a TreeSet, but I want to see if I can make a LinkedHashSet work. That's probably enough words. Have a good day.
+
+These are some words in a file for using with my module five assignment. I'm just typing anything that comes to mind in the hopes that I will have some duplicate words. I'll copy and paste the whole thing just for giggles.
+
+The objective is to gather these words into a set and iterate over the set forwards and then again backwards. I'm thinking that I'll probably need to use a TreeSet, but I want to see if I can make a LinkedHashSet work. That's probably enough words. Have a good day.
